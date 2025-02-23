@@ -74,6 +74,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gulalicelik/gulalicelik/output/snake.svg" alt="Snake animation" />
+<img src="https://github-profile-trophy.vercel.app/?username=gulalicelik" alt="Snake animation" />
+
+
 
 ###
